@@ -1,1 +1,2 @@
-[build] publish = "dist"
+[build] 
+publish = "dist"
